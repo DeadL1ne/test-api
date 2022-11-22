@@ -60,6 +60,7 @@ The following guides illustrate how to use some features concretely:
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Open API](https://www.baeldung.com/spring-rest-openapi-documentation)
+* Mapstruct(https://www.baeldung.com/mapstruct)
 
 ### Additional Links
 
@@ -67,5 +68,6 @@ These additional references should also help you:
 
 * [Liquibase](https://docs.liquibase.com/tools-integrations/springboot/springboot.html) - tool for DB migrations
 * [Open API Specification](https://swagger.io/specification/) - tool for API first developing way(Allow to auto generate controllers with useful info for swagger)
+* [Mapstruct](https://mapstruct.org/) - tool for mapping DTO to Entity and vice versa
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
