@@ -38,6 +38,10 @@ Ctrl+C
 docker compose down
 ```
 
+### How to check
+
+Application available at http://localhost:8080/swagger-ui/index.html
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
